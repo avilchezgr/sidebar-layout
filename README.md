@@ -1,3 +1,9 @@
+## Layout with sidebar made in React
+
+Layout where you can show and hide a sidebar, in which I save the state at the parent component.
+
+![](sidebar-layout.gif)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
